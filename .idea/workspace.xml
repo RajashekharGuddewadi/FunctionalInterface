@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="66975a0c-9340-4ff7-a66e-305830d1ca61" name="Changes" comment="" />
+    <list default="true" id="66975a0c-9340-4ff7-a66e-305830d1ca61" name="Changes" comment="Functional Interface" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,6 +24,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
@@ -43,6 +44,19 @@
       <option name="presentableId" value="Default" />
       <updated>1707142263271</updated>
     </task>
+    <task id="LOCAL-00001" summary="Functional Interface">
+      <option name="closed" value="true" />
+      <created>1707142325816</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1707142325816</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Functional Interface" />
+    <option name="LAST_COMMIT_MESSAGE" value="Functional Interface" />
   </component>
 </project>
