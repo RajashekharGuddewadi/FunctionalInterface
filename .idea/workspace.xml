@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="66975a0c-9340-4ff7-a66e-305830d1ca61" name="Changes" comment="Functional Interface">
-      <change afterPath="$PROJECT_DIR$/src/AdditionFunctionalInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FunInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SquareFun.java" afterDir="false" />
+    <list default="true" id="66975a0c-9340-4ff7-a66e-305830d1ca61" name="Changes" comment="Functional Interface examples">
+      <change afterPath="$PROJECT_DIR$/src/ThreadDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SquareFun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SquareFun.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +41,7 @@
     "Application.AdditionFuntionalInterface.executor": "Run",
     "Application.FunInterface.executor": "Run",
     "Application.SquareFun.executor": "Run",
+    "Application.ThreadDemo.executor": "Run",
     "Application.test.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -90,11 +90,20 @@
       <option name="project" value="LOCAL" />
       <updated>1707153446357</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Functional Interface examples">
+      <option name="closed" value="true" />
+      <created>1707201414501</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1707201414501</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Functional Interface" />
-    <option name="LAST_COMMIT_MESSAGE" value="Functional Interface" />
+    <MESSAGE value="Functional Interface examples" />
+    <option name="LAST_COMMIT_MESSAGE" value="Functional Interface examples" />
   </component>
 </project>

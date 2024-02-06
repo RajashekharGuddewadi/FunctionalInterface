@@ -11,7 +11,9 @@ class SquareClass implements SquareInterface{
 
 public class SquareFun {
     public static void main(String[] args) {
-        SquareInterface i=(n)-> n*n;
+        SquareInterface i=(n)-> {
+            return n*n;
+        };
         int n = 10;
         System.out.println("Square of "+ n +" using lambda expression is "+i.Square(n));
 
