@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="66975a0c-9340-4ff7-a66e-305830d1ca61" name="Changes" comment="Functional Interface">
+      <change afterPath="$PROJECT_DIR$/src/AdditionFunctionalInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FunInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SquareFun.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/InterF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterF.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +19,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -35,6 +38,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AdditionFunctionalInterface.executor": "Run",
+    "Application.AdditionFuntionalInterface.executor": "Run",
+    "Application.FunInterface.executor": "Run",
+    "Application.SquareFun.executor": "Run",
     "Application.test.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
